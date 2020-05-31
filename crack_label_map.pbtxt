@@ -1,0 +1,39 @@
+item {
+  id: 1
+  name: 'cracks'
+}
+
+item {
+  id: 2
+  name: 'cracks'
+}
+
+item {
+  id: 3
+  name: 'cracks'
+}
+
+item {
+  id: 4
+  name: 'cracks'
+}
+
+item {
+  id: 5
+  name: 'cracks'
+}
+
+item {
+  id: 6
+  name: 'potholes'
+}
+
+item {
+  id: 7
+  name: 'road marking'
+}
+
+item {
+  id: 8
+  name: 'road marking'
+}
